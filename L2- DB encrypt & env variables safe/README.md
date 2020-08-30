@@ -1,1 +1,1 @@
-# Authentication-Secrets
+L2- DB encrypt & env variables safe
